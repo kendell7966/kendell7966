@@ -1,5 +1,8 @@
 ## Kendell W Cottam - GitHub Projects
 
+This is a compilation of code that I have been working on recently, as well as a demo of my VirtualLens 3D software (coming soon).
+I am currently taking courses on Computer Vision and Deep Learning using Python at OpenCV University. There are many interesting projects that I have worked on and I am publishing them here to show examples of my code.
+
 <!--
 **kendell7966/kendell7966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
